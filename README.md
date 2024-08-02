@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bishal Das</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 🔭 I’m currently working on **Android and Ai projects**
 
