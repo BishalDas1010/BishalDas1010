@@ -1,27 +1,191 @@
-<img align="top" alt="Coding"  src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-
-<h1 align="center">Hi 👋, I'm Bishal Das</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-- 🔭 I’m currently working on **Android and Ai projects**
-
-- 🌱 I’m currently learning **Android development, Ai & ML**
-
-- 💬 Ask me about **Android development, python**
-
-- 📫 How to reach me **"bishalbishal6659@gmail.com"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/biahaldas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biahaldas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bishaldas.joy.92?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bishaldas.joy.92?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/the_binary1001?igsh=mtf6cghmehy1dnuydg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_binary1001?igsh=mtf6cghmehy1dnuydg==" height="30" width="40" /></a>
+<!-- Modern GitHub Profile with Enhanced Design -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:3700B3&height=200&section=header&text=Bishal%20Das&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20|%20AI%20Developer&descAlignY=55&descSize=20" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Replace with your actual profile picture URL -->
+  <img src="https://avatars.githubusercontent.com/u/bishaldas1010" width="150" height="150" style="border-radius:50%" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishaldas1010&show_icons=true&locale=en&layout=compact" alt="bishaldas1010" /></p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hi there, I'm Bishal
+</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishaldas1010&" alt="bishaldas1010" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishaldas1010&style=flat-square&color=3DDC84" alt="Profile views"/>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150" height="150"/>
+</div>
+
+## 💡 About Me
+
+```Kotlin
+
+class BishalDas {
+    val role = "Android & AI Developer"
+    val education = "Computer Science + Mechanical Diploma"
+    val learning = listOf("Deep Learning", "Computer Vision", "CameraX")
+    val interests = listOf("Mobile Development", "AI", "IoT Projects")
+    
+    fun sayHi() {
+        println("Thanks for visiting my GitHub! Let's build something amazing together!")
+    }
+    
+    fun getContact(): String {
+        return "bishalbishal6659@gmail.com"
+    }
+    
+    fun funFact(): String {
+        return "I dream in Kotlin and debug in my sleep 😄"
+    }
+}
+```
+
+<br>
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bishaldas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="https://www.facebook.com/bishaldas.joy.92" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
+  </a>
+  <a href="https://www.instagram.com/the_binary1001" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+  </a>
+  <a href="mailto:bishalbishal6659@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="65" height="65" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="65" height="65" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="65" height="65" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="65" height="65" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishaldas1010&show_icons=true&theme=algolia&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117&text_color=ffffff&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishaldas1010&layout=compact&theme=algolia&title_color=3DDC84&hide_border=true&bg_color=0D1117&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishaldas1010&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishaldas1010&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" />
+</p>
+
+<br>
+
+## 🔥 Current Projects
+<div align="center">
+  <a href="https://github.com/bishaldas1010/android-camera-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bishaldas1010&repo=android-camera-app&theme=algolia&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/bishaldas1010/ai-object-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bishaldas1010&repo=ai-object-detection&theme=algolia&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117&text_color=ffffff" />
+  </a>
+</div>
+
+<br>
+
+## 📱 What I'm Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20APIs-0175C2?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<br>
+
+## 🎯 2025 Goals
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/google-play.png"/>
+        <br />Publish Android App on Play Store
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
+        <br />Build IoT Irrigation System
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/domain.png"/>
+        <br />Launch Portfolio Website
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/blog.png"/>
+        <br />Start Tech Blog
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 💬 Let's Connect and Collaborate!
+> "I dream in Kotlin and debug in my sleep 😄"
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:3700B3&height=120&section=footer" />
+</p>
