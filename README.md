@@ -49,7 +49,7 @@ class BishalDas {
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bishaldas" target="_blank">
+  <a href="https://www.linkedin.com/in/biahaldas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="https://www.facebook.com/bishaldas.joy.92" target="_blank">
