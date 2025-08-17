@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150" height="150"/>
 </div>
 
-## 💡 About Me
+## About Me
 
 ```Kotlin
 
@@ -47,7 +47,7 @@ class BishalDas {
 
 <br>
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/biahaldas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
@@ -65,7 +65,7 @@ class BishalDas {
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -116,7 +116,7 @@ class BishalDas {
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishaldas1010&show_icons=true&theme=algolia&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117&text_color=ffffff&include_all_commits=true" />
@@ -133,7 +133,7 @@ class BishalDas {
 
 <br>
 
-## 🔥 Current Projects
+## Current Projects
 <div align="center">
   <a href="https://github.com/bishaldas1010/android-camera-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bishaldas1010&repo=android-camera-app&theme=algolia&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117&text_color=ffffff" />
@@ -145,7 +145,7 @@ class BishalDas {
 
 <br>
 
-## 📱 What I'm Currently Learning
+## What I'm Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -155,7 +155,7 @@ class BishalDas {
 
 <br>
 
-## 🎯 2025 Goals
+## 2025 Goals
 <div align="center">
   <table>
     <tr>
