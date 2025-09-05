@@ -1,12 +1,12 @@
 # Bishal Das
-**Robotics Engineer | AI/ML Specialist | Former Senior Android Developer**
+**Robotics Engineer | AI/ML Specialist | Android Developer**
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biahaldas)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bishalbishal6659@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/bishaldas1010)
-[![Location](https://img.shields.io/badge/Location-Tura,%20Meghalaya,%20India-28a745?style=flat&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-%20Tripura,%20India-28a745?style=flat&logo=google-maps&logoColor=white)](#)
 
 </div>
 
