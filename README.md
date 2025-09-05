@@ -82,7 +82,7 @@
 
 ### **Career Transition Journey**
 ```
-Android Engineer (5+ years) → Robotics & AI Engineer (Current)
+Android Engineer (1+ years) → Robotics & AI Engineer (Current)
 ├── Mobile App Development     → Embedded Systems Programming
 ├── UI/UX Optimization        → Human-Robot Interaction
 ├── Performance Tuning       → Real-time System Optimization
@@ -111,14 +111,6 @@ Android Engineer (5+ years) → Robotics & AI Engineer (Current)
 - Practical Project Development (Hands-on Learning)
 - Continuous Skill Improvement (Always Learning)
 
-
----
-
-## Featured Repositories
-
-**Comming Soon**
-
----
 
 ## Contact & Collaboration
 
